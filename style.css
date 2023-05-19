@@ -1,0 +1,34 @@
+*{
+    margin-left: 20px;
+}
+
+.contenedor{
+    display: flex;
+}
+.img1{
+    margin-top: 100px;
+    width: 500px;
+height: 300px;}
+.img2{
+    width: 700px;
+height: 500px;}
+.botones1 {
+    position: absolute;
+    margin-left: 570px;
+    margin-top: 100px;
+}
+.botones2{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: 100px;
+}
+.botones3{
+    position: absolute;
+    margin-left: 1080px;
+    margin-top: 370px;
+}
+.botones4{
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 370px;
+}
